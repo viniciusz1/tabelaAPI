@@ -1,0 +1,9 @@
+th{
+    border: solid 2px black;
+}
+td{
+    border: solid 1px black;
+}
+tr{
+    text-align: center;
+}
